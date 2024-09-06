@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hi there, I'm Michael Gardner
 
-<!--
-**MJGTwo/mjgtwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Innovator | Software Engineer | Terminal Velocity Specialist
 
-Here are some ideas to get you started:
+I develop at the intersection of telemetry analytics, platform infrastructure, and full-stack development. Currently, I'm pushing the boundaries at Rocket Science in the Terminal Velocity Division, where every challenge is an opportunity to innovate.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Past Collaborations
+From **Microsoft** to **Epic Games**, I've been privileged to build robust solutions and lead dynamic engineering teams across the tech landscape.
+
+### 🎮 More Than Code
+Gamer, musician, home renovator, and avid reader.  
+Always learning, always building.
+
+**Let's connect and create something extraordinary.**
+
+[🔗 Visit my website](https://mjgtwo.com)

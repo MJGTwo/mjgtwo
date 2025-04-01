@@ -1,8 +1,8 @@
 ## 👋 Hi there, I'm Michael Gardner
 
-### 🚀 Innovator | Software Engineer | Terminal Velocity Specialist
+### 🚀 Innovator | Software Engineer
 
-I develop at the intersection of analytics, infrastructure, and full-stack development. Currently, I'm pushing the boundaries at Rocket Science in the Terminal Velocity Division, where every challenge is an opportunity to innovate.
+I develop at the intersection of analytics, infrastructure, and full-stack development.
 
 ### 🔧 Past Collaborations
 From **Microsoft** to **Epic Games**, I've been privileged to build robust solutions and lead dynamic engineering teams across the tech landscape.

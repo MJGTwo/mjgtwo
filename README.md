@@ -1,8 +1,8 @@
 ## 👋 Hi there, I'm Michael Gardner
 
-### 🚀 Innovator | Software Engineer
+### 🚀 Entrepreneur | Innovator | Solutionist
 
-I develop at the intersection of analytics, infrastructure, and full-stack development.
+I develop solutions for analytics, infrastructure, and full-stack development.
 
 ### 🔧 Past Collaborations
 From **Microsoft** to **Epic Games**, I've been privileged to build robust solutions and lead dynamic engineering teams across the tech landscape.
@@ -14,3 +14,5 @@ Always learning, always building.
 **Let's connect and create something extraordinary.**
 
 [🔗 Visit my website](https://mjgtwo.com)
+
+[🔗 Visit my LinkedIn](https://www.linkedin.com/in/michael-gardner/)
